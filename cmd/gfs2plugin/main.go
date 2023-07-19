@@ -4,6 +4,7 @@ import (
 	"flag"
 	"os"
 
+	"github.com/psmalan/csi-driver-gfs2/pkg/gfs2"
 	"k8s.io/klog/v2"
 )
 
